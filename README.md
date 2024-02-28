@@ -17,10 +17,10 @@ We need to `predict` whether the customer will `churn`, `stay` or `join` the com
 
 ## 👀 Screenshots
 
-<img src = "/images/1.png">
-<img src = "/images/2.png">
-<img src = "/images/3.png">
-<img src = "/images/4.png">
+<img src = "/Images/2.png">
+<img src = "/Images/3.png">
+<img src = "/Images/4.png">
+
 
 
 ## 📓 Overview
